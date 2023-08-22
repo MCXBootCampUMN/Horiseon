@@ -1,8 +1,10 @@
 # Horiseon
 
-## Project-1-BootCamp
+### Purpose
 
-Website is a mock up of a Health Care site that helps select Programs depending on the school one is interested in.
+A site displaying multiple cards and a side bar with multiple card as well. Allowing for information and details to be organize in a user friendly interface.
+
+## Project-1-BootCamp
 
 1. Search Engine Optimization
 
