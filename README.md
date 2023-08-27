@@ -46,7 +46,7 @@ A site displaying multiple cards and a side bar with multiple card as well. Allo
 ### **_Link URL to deployed website on GitHub_**
 [Deployed-link](https://mcxbootcampumn.github.io/Horiseon/)
 
-<img width="200" alt=" 1st Image" src="https://raw.githubusercontent.com/MCXBootCampUMN/Horiseon/main/Heriseon.png">
+<img width="300" alt=" 1st Image" src="https://raw.githubusercontent.com/MCXBootCampUMN/Horiseon/main/Heriseon.png">
 
 
 #### Thank you for checking out this Repo
