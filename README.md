@@ -1,6 +1,6 @@
 # Horiseon
-![GitHub repo size](https://img.shields.io/github/repo-size/MCXBootCampUMN/Horiseon)
-![GitHub top language](https://img.shields.io/github/languages/top/MCXBootCampUMN/Horiseon)
+![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/Horiseon)
+![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/Horiseon)
 
 ### Purpose
 
