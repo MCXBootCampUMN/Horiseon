@@ -41,7 +41,7 @@ A site displaying multiple cards and a side bar with multiple card as well. Allo
 
 ### **_Link URL to GitHub Repository_**
 
-[github-Project](https://github.com/Maxamed-NCX/Horiseon)
+[Github-Project](https://github.com/Maxamed-NCX/Horiseon)
 
 ### **_Link URL to deployed website on GitHub_**
 [Deployed-link](https://maxamed-ncx.github.io/Horiseon/)
